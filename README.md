@@ -15,7 +15,8 @@ Enter a company name and get a structured brief with:
 - ❓ **Discovery Questions** — ready-to-use questions for the call
 - ⚠️ **Risks to Watch** — potential red flags
   Eje:
-![Uploading image.png…]()
+<img width="725" height="1475" alt="image" src="https://github.com/user-attachments/assets/8e0f2df2-25e1-4441-b9fd-37c29eb6ba1c" />
+
 
 ---
 
