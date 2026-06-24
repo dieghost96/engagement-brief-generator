@@ -1,6 +1,7 @@
 # Engagement Brief Generator 🤖
 
 A React-powered tool built for **Telos Labs** that uses Claude AI + web search to generate opinionated engagement briefs before a first client discovery call.
+<img width="504" height="554" alt="image" src="https://github.com/user-attachments/assets/492faa5b-f464-4d53-9259-521270e28bc0" />
 
 ---
 
@@ -12,6 +13,7 @@ Enter a company name and get a structured brief with:
 - ✨ **AI Opportunities** — where AI creates real leverage, with timing and impact
 - ❓ **Discovery Questions** — ready-to-use questions for the call
 - ⚠️ **Risks to Watch** — potential red flags
+![Uploading image.png…]()
 
 ---
 
