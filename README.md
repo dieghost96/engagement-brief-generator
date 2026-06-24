@@ -122,18 +122,6 @@ git push -u origin main
 
 ---
 
-## Step 6 — Add this README
-
-This `README.md` file should already be in your project root. If not, place it there and run:
-
-```bash
-git add README.md
-git commit -m "add README"
-git push
-```
-
----
-
 ## Project Structure
 
 ```
